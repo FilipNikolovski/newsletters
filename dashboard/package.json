@@ -11,7 +11,7 @@
     "@uppy/aws-s3": "^1.7.9",
     "@uppy/core": "^1.17.0",
     "@uppy/react": "^1.11.6",
-    "axios": "^0.21.3",
+    "axios": "^1.7.8",
     "codemirror": "^5.63.0",
     "date-fns": "^2.22.1",
     "dompurify": "^2.2.9",
